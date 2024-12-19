@@ -8,7 +8,7 @@ This project is a part of @Codebasics Power BI course.
 ## Challenge 
 AtliQ Hardware, a rapidly expanding consumer electronics company, grappled with data analysis limitations in Excel, resulting in significant losses in the Latin American market.
 
-## Objective: 
+## Objective 
 Deliver a comprehensive Power BI dashboard empowering data-driven decision-making and solution that spanned across various departments, including Finance, Sales, Marketing, and Supply Chain.
 
 ## Tool Used
